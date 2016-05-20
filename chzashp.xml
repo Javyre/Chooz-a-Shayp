@@ -1,0 +1,15 @@
+<settings>
+    <defaults>
+        <color>purple</color>
+        <speed>3</speed>
+        <framecol>green</framecol>
+        <distance>150</distance>
+        <helo>popo</helo>
+        <increments>50</increments>
+    </defaults>
+    <temporaries>
+        <temp1>77</temp1>
+        <temp2>9</temp2>
+        <shape>nope</shape>
+    </temporaries>
+</settings>
